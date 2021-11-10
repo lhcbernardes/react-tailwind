@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Utilizando diferentes Falvors de Css com Tailwind, Emotion e Styled Components
+
+Testando utilitarios e frameworks para CSS, recriando o ambiente do Netflix
+
 ## Available Scripts
 
 In the project directory, you can run:
